@@ -1,0 +1,7 @@
+{
+  "name": "SH DESIGNS",
+  "description": "A professional AI-powered architectural design suite for generating prompts, re-rendering visuals, creating concepts, and converting plans into 3D visualizations.\nCreated by arch shady",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
